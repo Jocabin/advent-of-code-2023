@@ -1,0 +1,6 @@
+*.txt
+.DS_Store
+*.bin
+*.dSYM
+.idea
+.vscode
